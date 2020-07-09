@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://dev:dev@cluster0-4pztr.mongodb.net/devConnect?retryWrites=true&w=majority",
+    "jwtsecret": "dfghjkllkj"
+}
